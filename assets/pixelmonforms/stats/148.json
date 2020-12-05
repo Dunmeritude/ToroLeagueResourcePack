@@ -1,0 +1,179 @@
+{
+  "pokemon": "Dragonair",
+  "forms": {
+	"113": {
+		"pixelmonName": "dragonair-toroan",
+		"stats": {
+			"HP": 91,
+			"Attack": 100,
+			"Defence": 100,
+			"Speed": 80,
+			"SpecialAttack": 134,
+			"SpecialDefence": 95
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "height": 1,
+  "width": 2,
+  "length": 4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 4,
+    "swimSpeed": 1.5,
+    "depthRangeEnd": 10,
+    "refreshRate": 80,
+    "decayRate": 0.99
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 16.5,
+  "evolutions": [],
+  "abilities": [
+    "SereneGrace",
+    "CuteCharm",
+    "MarvelScale"
+  ],
+  "eggGroups": [
+    "Water1",
+	"Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Wrap",
+      "Baby-Doll Eyes",
+      "Thunder Wave",
+      "Twister"
+    ],
+    "1": [
+      "Hurricane",
+	  "Ice Shard",
+	  "Wrap",
+	  "Baby-Doll Eyes",
+	  "Twister",
+	  "Thunder Wave"
+    ],
+    "16": [
+      "Dragon Breath"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "25": [
+      "Ice Beam"
+    ],
+    "33": [
+      "Muddy Water"
+    ],
+    "39": [
+      "Dragon Pulse"
+    ],
+    "46": [
+      "Mist"
+    ],
+    "53": [
+      "Rain Dance"
+    ],
+    "60": [
+      "Dragon Dance"
+    ],
+    "67": [
+      "Tri Attack"
+    ],
+    "80": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Fire Blast",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Round",
+    "Confide",
+    "Dive",
+    "Incinerate",
+    "Whirlpool",
+    "Horn Drill",
+    "Aurora Veil",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Hail",
+    "Dragon Breath",
+    "Detect",
+    "Water Pulse",
+    "Shock Wave",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+	"Blizzard",
+	"Icy Wind",
+	"Hurricane",
+	"Calm Mind"
+  ],
+  "tutorMoves": [
+  ],
+  "eggMoves": [
+  ],
+  "form": 113
+		}
+	}
+}

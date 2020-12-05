@@ -1,0 +1,9 @@
+{
+  "pokemon": "Morelull",
+  "forms": {
+    "113": {
+	  "pixelmonName": "morelull-toroan",
+      "form": 113
+    }
+  }
+}
