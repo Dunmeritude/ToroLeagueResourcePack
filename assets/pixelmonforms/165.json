@@ -1,0 +1,188 @@
+{
+  "pokemon": "Ledyba",
+  "forms": {
+	"113": {
+		"pixelmonName": "Ledyba",
+		"stats": {
+			"HP": 50,
+			"Attack": 40,
+			"Defence": 30,
+			"Speed": 65,
+			"SpecialAttack": 40,
+			"SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Dark"
+  ],
+  "height": 0.4,
+  "width": 1,
+  "length": 1,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.8,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Ledian"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Download",
+    "Forewarn",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Foresight"
+    ],
+    "5": [
+      "Recover"
+    ],
+    "8": [
+      "Pursuit"
+    ],
+    "12": [
+      "Memento",
+      "Embargo"
+    ],
+    "15": [
+      "Sucker Punch"
+    ],
+    "19": [
+      "Dark Pulse"
+    ],
+    "21": [
+      "Signal Beam"
+    ],
+    "22": [
+      "Comet Punch"
+    ],
+    "23": [
+      "Knock Off"
+    ],
+    "24": [
+      "Lock-On"
+    ],
+    "26": [
+      "First Impression"
+    ],
+    "29": [
+      "Detect"
+    ],
+    "33": [
+      "Bug Buzz"
+    ],
+    "36": [
+      "Vacuum Wave"
+    ],
+    "40": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Dark Pulse",
+    "Embargo",
+    "Payback",
+    "Smart Strike",
+    "Flash Cannon",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Acrobatics",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Mega Punch",
+    "Mega Kick",
+    "Double-Edge",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Dynamic Punch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Focus Punch",
+    "Roost",
+    "Drain Punch",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+  ],
+  "eggMoves": [
+  ],
+  "form": 113
+		}
+	}
+}
