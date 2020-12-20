@@ -1,0 +1,9 @@
+{
+  "pokemon": "Quagsire",
+  "forms": {
+    "114": {
+	  "pixelmonName": "Quagsire",
+      "form": 112
+    }
+  }
+}
